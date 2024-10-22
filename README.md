@@ -40,7 +40,7 @@ The insights and metrics will be presented through an interactive dashboard desi
 
 * Credit Card Feature & Executive View:    Suggestions based on data, aimed at improving the likelihood of credit card usage across various customer groups.
 
- ### Interactive Dashborad Link : [Mitron Bank Credit Card Analysis Viz.](https://app.powerbi.com/view?r=eyJrIjoiZmE5MzA0YzEtYTlkYS00Y2EzLWIxYmItZGI0ODZiZGU2YzI5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
+ ### Interactive Dashboard Link : [Mitron Bank Credit Card Analysis Viz.](https://app.powerbi.com/view?r=eyJrIjoiZmE5MzA0YzEtYTlkYS00Y2EzLWIxYmItZGI0ODZiZGU2YzI5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
 
 ### Technologies Used
 Jupyter Notebook,Power BI
