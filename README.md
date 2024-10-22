@@ -43,7 +43,7 @@ The insights and metrics will be presented through an interactive dashboard desi
  ### Interactive Dashbord Link : [Mitron Bank Credit Card Analysis Viz.](https://app.powerbi.com/view?r=eyJrIjoiZmE5MzA0YzEtYTlkYS00Y2EzLWIxYmItZGI0ODZiZGU2YzI5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
 
 ### Technologies Used
-Jupiter Notebook,Power BI
+Jupyter Notebook,Power BI
 
 ### Conclusion
 This analysis is expected to provide actionable insights that will guide Mitron Bank in customizing their credit card offerings, targeting the right customer segments, and identifying potential features that will boost card adoption and usage. With a successful pilot project, AtliQ Data Services aims to secure the contract for the full implementation.
