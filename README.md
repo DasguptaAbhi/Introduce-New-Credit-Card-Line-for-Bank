@@ -23,7 +23,7 @@ Mitron Bank is exploring ways to increase its presence in the financial market b
 ### Metrics & Analysis
 The following key metrics will be calculated and visualized:
 
- *Avg Income Utilization %:    A crucial measure to determine the potential of customers to use the credit card.
+ * Avg Income Utilization %:    A crucial measure to determine the potential of customers to use the credit card.
 
 * Spending Patterns by Demographic Groups:     Analyzing how different segments (e.g., by occupation, city, or age) allocate their spending.
 
